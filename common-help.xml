@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE resource-lib SYSTEM "common-help-dtd.dtd">
+
+<resource-lib>
+    <!--help for common projects-->
+<help topic="common">
+    <title>Understanding Common Writing Assignments</title>
+    <author>Purdue Online Writing Lab</author>
+    <description>The Purdue Online Writing Lab has resources to help you understand and complete specific types of common writing assignments.</description>
+    <source>
+        <loc><![CDATA[ https://owl.purdue.edu/owl/general_writing/common_writing_assignments/index.html]]> </loc>
+       <format type="web" />
+       <doc type= "article" />
+    </source>
+    <subject>
+       <area type="process" />
+       <area type="NNE"/>
+       <area type="research" />
+       <area type="writing" />
+       <area type="formatting" />
+    </subject>
+  </help>
+
+  <help topic="common">
+        <title>Writing Handouts and Demos</title>
+        <author>UNC Writing Center</author>
+        <description>The Writing Center at the University of North Carolina at Chapel Hill offers handouts and videos on a variety of writing topics, including specific writing assignments.</description>
+        <source>
+            <loc><![CDATA[ http://writingcenter.unc.edu/handouts/
+                ]]> </loc>
+            <format type="web" />
+            <doc type= "example" />
+            <doc type= "template" />
+            <doc type= "tutorial" />
+        </source>
+      <subject>
+            <area type="process" />
+            <area type="research" />
+            <area type="style" />
+            <area type="formatting" />
+      </subject>
+    </help>
+
+    <help topic="common">
+        <title>Academic Writing</title>
+        <author>Write Online</author>
+        <description>From write online.ca, this resource provides in-depth information on the expectations and formats of case study reports, lab reports, and reflective writing.</description>
+        <source>
+            <loc><![CDATA[ http://writeonline.ca/index.php
+                ]]> </loc>
+            <format type="web" />
+            <doc type= "example" />
+            <doc type= "tutorial" />
+        </source>
+        <subject>
+        <area type="process" />
+        <area type="STEM" />
+        <area type="style" />
+        <area type="formatting" />
+        </subject>
+
+    </help>
+
+    <help topic="common">
+        <title>How to Write a Thesis Statement</title>
+        <author>Writing Tutorial Services</author>
+        <description>Tips from Indiana University Bloomington on writing thesis statements.</description>
+        <source>
+            <loc><![CDATA[ https://wts.indiana.edu/writing-guides/how-to-write-a-thesis-statement.html
+                ]]> </loc>
+            <format type="web" />
+            <doc type= "article" />
+        </source>
+        <subject>
+            <area type="writing"/>
+        </subject>
+    </help>
+
+    <help topic="common">
+        <title>Videos on effective email, professional, and academic writing</title>
+        <author>Sheryl Holt</author>
+        <description>An extensive Youtube channel with videos on all types of writing and several parts of the writing process
+            from Sheryl Holt, TESoL scholar, instructor in the Department of Writing Studies and the Carlson School of Management, and author of Success with Academic and Scholarly Writing (2004).
+        </description>
+        <source>
+            <loc><![CDATA[ https://www.youtube.com/channel/UCZzjGxacNvsa8fKfp_-e9-Q/featured
+                ]]> </loc>
+            <format type="video" />
+            <doc type="tutorial"/>
+        </source>
+        <subject>
+            <area type="writing"/>
+            <area type="NNE"/>
+            <area type= "STEM"/>
+            <area type="professional"/>
+</subject>
+
+    </help>
+
+    <help topic="common">
+        <title>Using Gender-Neutral Language in Academic Writing</title>
+        <author>Jamila Stevenson</author>
+        <description>Advice and examples on using gender-neutral langauge in academic writing by Jamila Stevenson from Warren Wilson College Writing Center.</description>
+        <source>
+            <loc><![CDATA[ http://writing.umn.edu/sws/assets/pdf/Gender-Neutral_Language.pdf
+                ]]> </loc>
+            <format type="PDF" />
+            <doc type="article" />
+            <doc type="example" />
+        </source>
+        <subject>
+            <area type="style" />
+            <area type="grammar" />
+        </subject>
+    </help>
+
+    <help topic="common">
+        <title>Phrases to Use in Academic and Disciplinary Writing</title>
+        <author>University of Manchester</author>
+        <description>This website is a resource of phrases that one can use when writing at the university level. For example, what are some ways to write a transition sentence? How do you introduce a series of examples? </description>
+        <source>
+            <loc><![CDATA[ http://www.phrasebank.manchester.ac.uk/
+                ]]> </loc>
+            <format type= "web"/>
+            <doc type= "database" />
+        </source>
+        <subject>
+            <area type="NNE"/>
+            <area type= "style"/>
+            <area type= "writing" />
+        </subject>
+    </help>
+
+    <help topic="common">
+        <title>Making Complex Writing Intelligible with the New-Known Contract</title>
+        <author>Carnegie Mellon University</author>
+        <description>From Carnegie Mellon University's Global Communication Center, a color-coded handout explaining how to work with reader expectations in order to create clear connections between sentences.
+        </description>
+        <source>
+            <loc><![CDATA[ https://owl.purdue.edu/owl/general_writing/common_writing_assignments/index.html]]> </loc>
+            <format type= "web"/>
+            <doc type= "article" />
+            <doc type= "example" />
+            <doc type= "tutorial" />
+        </source>
+        <subject>
+            <area type= "style"/>
+            <area type= "writing" />
+        </subject>
+    </help>
+
+    <help topic="common">
+        <title>Writing Clear, Concise Sentences </title>
+        <author>University of Wisconsin</author>
+        <description>The Writing Center at the University of Wisconsin–Madison offers principles for writing sentences that are clear, to the point, and easier to read.</description>
+        <source>
+            <loc><![CDATA[ https://owl.purdue.edu/owl/general_writing/common_writing_assignments/index.html]]> </loc>
+            <format type= "web"/>
+            <doc type= "database" />
+        </source>
+        <subject>
+            <area type= "style"/>
+            <area type= "writing" />
+        </subject>
+    </help>
+
+</resource-lib>

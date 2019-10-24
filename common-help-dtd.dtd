@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT resource-lib (help+)>
+<!ELEMENT help (title, author, description, source, subject)>
+<!ATTLIST help topic (common|STEM|grad|multi|grammar
+|research|genre|process ) #REQUIRED>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT author (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+    <!ELEMENT source (loc, format, doc+)>
+        <!ELEMENT loc ANY>
+        <!ELEMENT format EMPTY>
+            <!ATTLIST format type (web|PDF|video) #IMPLIED>
+        <!ELEMENT doc EMPTY>
+            <!ATTLIST doc type (article|example|template|tutorial|database) #REQUIRED>
+    <!ELEMENT subject (area+)>
+        <!ELEMENT area EMPTY>
+         <!ATTLIST area type (writing|research|process|grammar|NNE|STEM|style|formatting|professional) #REQUIRED>
