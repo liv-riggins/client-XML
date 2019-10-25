@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE resource-lib SYSTEM "common-help-dtd.dtd">
-
+<?xml-stylesheet type="text/css" href="common-help.css"?>
 <resource-lib>
     <!--help for common projects-->
 <help topic="common">

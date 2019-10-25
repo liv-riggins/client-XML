@@ -1,0 +1,58 @@
+/*** XML styling for common help section ***/
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
+
+title, author, description, source, subject {
+  display: block;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  padding: .1em .25em;
+}
+
+title{
+  font-weight: bold;
+  font-size: 150%;
+  color: #7a0019;
+  background-color: white;
+  margin: 0.5em;
+  }
+
+author {
+  font-size: 90%;
+  margin-left: 2.5em;
+  }
+
+description {
+  font-size: 100%;
+  margin: 0.5em 1em;
+  }
+
+loc {
+visibility: hidden;
+
+}
+source:before {
+  content: "Resource type:";
+  margin:1em;
+  color: grey;
+}
+
+doc {
+  display: block;
+  margin-left:1em;
+  color: grey;
+  font-size: 90%;
+  }
+doc:after {content: "" attr(type)""}
+
+subject:before {
+  content: "Subject area:";
+  margin:1em;
+  color: grey;
+}
+area {
+  display: block;
+  margin-left:1em;
+  color: grey;
+  font-size: 90%;
+  }
+
+area:after {content: "" attr(type)""}
